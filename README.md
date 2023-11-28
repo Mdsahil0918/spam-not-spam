@@ -1,2 +1,2 @@
 # spam-not-spam
-this is a spam and not spam classification model
+this is a sms spam and not spam classification model
